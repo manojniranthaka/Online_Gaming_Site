@@ -1,0 +1,97 @@
+.CP{ color:white;
+    font-size : 50px;
+    text-outline: 5px 5px green;
+    margin-top:20px;
+
+}
+
+#log{  margin-top:80px;
+}
+
+#log1 {
+        padding:50px;
+        background : rgba(255, 255, 200, 0.05);
+
+
+
+
+}
+
+
+
+.log_form{
+            color: white;
+            font-size: 30px;
+            float:left;
+
+
+
+}
+
+#log1 td{ border:none;
+
+
+}
+
+.inpt_log { width:250px;
+    height:30px;
+
+
+}
+
+input{ color:black;
+        font-size:20px;
+        border:none;
+
+}
+
+.btn_s{ width:120px;
+        height:35px;
+        margin-right:10px;
+        margin-top:10px;
+        background-color:darkslategray;
+        border:none;
+        font-size: 16px;
+        font-weight:bold;
+        color:white;
+
+}
+
+.sub{ color:white;
+        font-size: 35px;
+        font-style:italic;
+
+
+}
+
+.btn_dash{ width:240px;
+                height:130px;
+
+                border:3px solid white;
+                font-size: 22px;
+                color:white;
+                font-weight:bold;
+                border-radius:10px;
+
+
+}
+
+.btn_dash:hover {
+    background-color: red;
+    color: white;
+}
+
+#but_menu tr td{ padding:30px;
+                border:none;
+
+
+
+}
+
+#but_menu{ margin-top:10px;
+
+}
+
+.emp_det1{
+
+}

@@ -1,0 +1,26 @@
+.flash_tab { width : 620px;
+				height : auto;
+				margin-top:30px;
+				font-size:15px;
+				
+	
+}
+
+.flash_tab tr { margin-bottom: 10px;
+				
+				
+	}
+
+.flash_tab th{ background-color:#66b0d3;
+			height: 50px;
+			border-top-left-radius: 5px;
+			border-top-right-radius: 5px;
+			
+			}
+
+.flash_tab td { background-color: #101010;
+				padding:10px;
+				height:200px;
+			
+					
+			
